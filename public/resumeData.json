@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name": "Khoury Smith",
+    "occupation": "Software Engineer, && Instructional Associate @GeneralAssembly",
+    "description": "Front End Developer by Day, Freelancer && Couch Potato by Night. #flexboxninja",
+    "image": "khoury.jpg",
+    "bio": "Hey, my name is Khoury. I'm a Software Engineer. I love Call of Duty, and if I use the shotgun you won't have a chance. Once upon a time I thought, I was going to be a professional football player. Obviously that didn't happen but I'd bet that I am the fastest developer you ever met. We can race at anytime! As a Frontend Developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "khoury.smith@gmail.com",
+    "phone": "786 972 9717",
+    "address": {
+      "street": "",
+      "city": "West Palm Beach",
+      "state": "Florida",
+      "zip": "33463"
+    },
+    "website": "http://www.khoury.smith.com",
+    "resumedownload": "http://indd.adobe.com/view/66dcaba4-25fc-4167-a88b-1b765d421aeb",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/khourysmith/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/krock07",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "General Assembly",
+        "degree": "Software Engineering Immersive",
+        "graduated": "August 2020"
+      },
+      {
+        "school": "Florida State University",
+        "degree": "Master of Science in Marketing & Management Communication",
+        "graduated": "April 2016"
+      },
+      {
+        "school": "Florida Agriculture & Mechanical University",
+        "degree": "Bachelor of Science in Graphic Design",
+        "graduated": "April 2012"
+      }
+    ],
+    "work": [
+      {
+        "company": "bundleIQ",
+        "title": "Freelance(Frontend Developer)",
+        "years": "August 2020 - Present",
+        "description": "Refactor code to improve the structure and implementation of the software while preserving its functionality."
+      },
+      {
+        "company": "General Assembly",
+        "title": "Instructional Associate",
+        "years": "October 2020 - Present",
+        "description": "Deliver technology skills training for the Software Engineering Immersive (Flex) course, to prepare students for entry-level to mid-level careers in the field of Web Development."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Adobe Photoshop & Illustrator",
+        "level": "100%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Protest-Away",
+        "category": "A digital platform that empowers people to engage in activism  (SQL, ExpressJS, ReactJS, NodeJS)",
+        "image": "protest-away.jpg",
+        "url": "http://virtual-protest.org/"
+      },
+      {
+        "title": "Reviewagon",
+        "category": "Full CRUD  stroller review application (Ruby on Rails, ReactJS)",
+        "image": "reviewagon.jpg",
+        "url": "https://my-reviewagon-heroku-app.herokuapp.com/"
+      },
+      {
+        "title": "Amazing",
+        "category": "MERN stack application with stripe functionality using firebase cloud functions (Firebase, ReactJS)",
+        "image": "amazing-clone.jpg",
+        "url": "https://challenge-5036f.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "We want to thank Khoury for the wonderful job in helping us build our website. He was professional, excellent and hard working",
+        "user": "Posh Beauty Supply"
+      },
+      {
+        "text": "I was really impressed by the quality of work from Khoury",
+        "user": "Nubian Roots Beauty and Spa"
+      }
+    ]
+  }
+}
