@@ -15,7 +15,7 @@
       "zip": "33463"
     },
     "website": "http://www.khoury.smith.com",
-    "resumedownload": "http://indd.adobe.com/view/66dcaba4-25fc-4167-a88b-1b765d421aeb",
+    "resumedownload": "https://res.cloudinary.com/dh0pbh1ah/raw/upload/v1610732394/Khoury_Smith_GA_Resume_zmibr0.docx",
     "social": [
       {
         "name": "linkedin",
@@ -57,7 +57,7 @@
       },
       {
         "company": "General Assembly",
-        "title": "Instructional Associate",
+        "title": "Software Engineering Instructional Associate",
         "years": "October 2020 - Present",
         "description": "Deliver technology skills training for the Software Engineering Immersive (Flex) course, to prepare students for entry-level to mid-level careers in the field of Web Development."
       }
