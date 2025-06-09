@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Khoury Smith",
-    "occupation": "Software Engineer, && Instructional Associate @GeneralAssembly",
+    "occupation": "Software Engineer",
     "description": "Front End Developer by Day, Freelancer && Couch Potato by Night. #flexboxninja",
     "image": "khoury.jpg",
     "bio": "Hey, my name is Khoury. I'm a Software Engineer. I love Call of Duty, and if I use the shotgun you won't have a chance. Once upon a time I thought, I was going to be a professional football player. Obviously that didn't happen but I'd bet that I am the fastest developer you ever met. We can race at anytime! As a Frontend Developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world.",
@@ -10,12 +10,12 @@
     "phone": "786 972 9717",
     "address": {
       "street": "",
-      "city": "West Palm Beach",
-      "state": "Florida",
-      "zip": "33463"
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30252"
     },
     "website": "http://www.khoury.smith.com",
-    "resumedownload": "https://res.cloudinary.com/dh0pbh1ah/raw/upload/v1610732394/Khoury_Smith_GA_Resume_zmibr0.docx",
+    "resumedownload": "https://res.cloudinary.com/dh0pbh1ah/raw/upload/v1749491763/khoury_smith_resume.docx",
     "social": [
       {
         "name": "linkedin",
@@ -33,11 +33,6 @@
     "skillmessage": "",
     "education": [
       {
-        "school": "General Assembly",
-        "degree": "Software Engineering Immersive",
-        "graduated": "August 2020"
-      },
-      {
         "school": "Florida State University",
         "degree": "Master of Science in Marketing & Management Communication",
         "graduated": "April 2016"
@@ -50,16 +45,28 @@
     ],
     "work": [
       {
-        "company": "bundleIQ",
-        "title": "Freelance(Frontend Developer)",
-        "years": "August 2020 - Present",
-        "description": "Refactor code to improve the structure and implementation of the software while preserving its functionality."
+        "company": "Cove",
+        "title": "Tech Lead Frontend Engineer",
+        "years": "April 2023 - Present",
+        "description": "Led frontend architecture for scalable platforms using React, TypeScript, and Vite—boosting performance and maintainability. Spearheaded Vitras.ai, an AI platform with 4,000+ users. Delivered full-stack solutions integrating 3D data for carbon reports, built server-driven UIs, enforced code quality through reviews, and implemented robust Cypress tests for reliability."
       },
       {
-        "company": "General Assembly",
-        "title": "Software Engineering Instructional Associate",
-        "years": "October 2020 - Present",
-        "description": "Deliver technology skills training for the Software Engineering Immersive (Flex) course, to prepare students for entry-level to mid-level careers in the field of Web Development."
+        "company": "Per Scholas",
+        "title": "Senior Manager of Product Engineering – Software Engineering",
+        "years": "August 2022 - June 2023",
+        "description": "Led the innovation and design of software engineering curricula tailored to both in-person and remote delivery, aligning with industry needs and learner outcomes. Designed and prototyped new modules featuring React, JavaScript, and TypeScript, and partnered with cross-functional teams to implement scalable, impactful educational solutions."
+      },
+      {
+        "company": "7th Ave",
+        "title": "Lead Frontend Engineer",
+        "years": "March 2021 - March 2023",
+        "description": "Engineered a high-traffic, multidimensional website with Next.js, driving 5,000+ monthly users and boosting engagement by 20%. Led end-to-end project development—from ideation to launch—ensuring performance and UX goals were met. Mentored junior engineers, championing best practices and a culture of continuous improvement."
+      },
+      {
+        "company": "BundleIQ",
+        "title": "Frontend Engineer",
+        "years": "August 2022 - February 2021",
+        "description": "Collaborated with cross-functional teams in agile standups to ensure precise feature delivery, reducing development cycles by 63%. Revamped the login flow and menu architecture using React, resulting in a 20% increase in daily user acquisitions."
       }
     ],
     "skills": [
@@ -68,23 +75,27 @@
         "level": "100%"
       },
       {
+        "name": "TypeScript",
+        "level": "95%"
+      },
+      {
         "name": "CSS",
         "level": "95%"
       },
       {
         "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "Adobe Photoshop & Illustrator",
         "level": "100%"
       },
       {
-        "name": "HTML5",
+        "name": "Cypress, Jest",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
         "level": "70%"
       }
     ]
@@ -92,22 +103,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Protest-Away",
-        "category": "A digital platform that empowers people to engage in activism  (SQL, ExpressJS, ReactJS, NodeJS)",
-        "image": "protest-away.jpg",
-        "url": "http://virtual-protest.org/"
+        "title": "Earnings Tournament",
+        "category": "Show off your market instincts and build the longest streak of opening gap direction picks to have a chance at up to $5,000 in prizes.",
+        "image": "earnings-tournament.png",
+        "url": "http://earningstournament.com/"
       },
       {
-        "title": "Reviewagon",
-        "category": "Full CRUD  stroller review application (Ruby on Rails, ReactJS)",
-        "image": "reviewagon.jpg",
-        "url": "https://my-reviewagon-heroku-app.herokuapp.com/"
-      },
-      {
-        "title": "Amazing",
-        "category": "MERN stack application with stripe functionality using firebase cloud functions (Firebase, ReactJS)",
-        "image": "amazing-clone.jpg",
-        "url": "https://challenge-5036f.web.app/"
+        "title": "Gap Gambler",
+        "category": "Landing Page for Gap Gambler stock platform",
+        "image": "gap-gambler.png",
+        "url": "https://gapgambler.com/"
       }
     ]
   },
